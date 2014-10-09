@@ -9,4 +9,5 @@ got the text adventures to work with the push of a button
 10/6/2014
 trying to get Sweet Alerts to work
 
+10/8/2014 sweet alerts still dont work
 
