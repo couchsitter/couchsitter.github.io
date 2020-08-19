@@ -2,6 +2,9 @@
  
  -Eric-
 
+8/19/2020 5:06 PM CST
+lol i remembered I had this again and was playing around the homepage (couchsitter.github.io), saw some text / grammar issues and fixed them. Will also upload new pep shortly
+
 10/25/2014 4:22 PM
 mobile works as intended
 
