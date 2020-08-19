@@ -5,7 +5,7 @@ switch(user){
     case 'FIGHT':
         alert("You raise your FISTS up in a fighting stance. The MAN reaches for his SWORD hidden underneath his CLOAK.");
         var skilled = prompt("Are you SKILLED?").toUpperCase();
-        var cunning = prompt("Are you CUNNNING?").toUpperCase();
+        var cunning = prompt("Are you CUNNING?").toUpperCase();
         if((skilled==="YES") && (cunning==="YES")){
             alert("Even though you are unarmed, you are more SKILLED and more CUNNING than this stranger, and proceed to DISARM HIS ARMS from him...with his OWN SWORD.");
             alert("CONGRATULATION, you have SURVIVE this encounter by DISMEMBERING THE ATTACKER.");

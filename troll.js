@@ -16,7 +16,7 @@ switch(troll) {
     var money = prompt("All right, we'll pay the troll. Do you have any money (YES or NO)?").toUpperCase();
     var dollars = prompt("Is your money in Troll Dollars?").toUpperCase();
     if(money === 'YES' && dollars === 'YES') {
-      alert("Great! You pay the troll and continue to this boy's soul.");
+      alert("Great! You pay the troll's toll and continue to this boy's soul.");
     } else {
       alert("Dang! This troll only takes Troll Dollars. You get whomped!");
     }
